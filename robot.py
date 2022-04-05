@@ -7,5 +7,5 @@ class Robot:
         pass
     
     def robot_attack(self,dinosaur):
-
+        ()
         pass
